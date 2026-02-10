@@ -1,0 +1,8 @@
+{
+  "name": "Vynix - Minimalist Film Platform",
+  "description": "A premium, monochrome film streaming experience featuring AI-powered assistants and advanced image editing capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
