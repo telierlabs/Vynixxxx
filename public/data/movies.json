@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "6 7 The Movie",
+    "category": "Horror",
+    "description": "Survive the legend with Sora 2 Pro",
+    "year": 2024,
+    "rating": "9.2",
+    "videoUrl": "/6 7 The Movie _ Sora 2 Pro _ Survive The Legend.mp4",
+    "posterUrl": "/poster/file_00000000c67c7206a4830c0c5cadf83c.png",
+    "trending": true
+  },
+  {
+    "id": "2",
+    "title": "The Mystery",
+    "category": "Thriller",
+    "description": "An enigmatic journey into the unknown",
+    "year": 2024,
+    "rating": "8.8",
+    "videoUrl": "/c43c8110-2c72-4d27-8b75-426a76529d62.mp4",
+    "posterUrl": "/posters/the-mystery.jpg",
+    "trending": true
+  },
+  {
+    "id": "3",
+    "title": "Viral Moments",
+    "category": "Drama",
+    "description": "Capturing the essence of modern storytelling",
+    "year": 2024,
+    "rating": "9.0",
+    "videoUrl": "/snaptik_7409290437506206984.mp4",
+    "posterUrl": "/posters/viral-moments.jpg",
+    "trending": true
+  }
+]
